@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1150" height="600">
+
+  <!-- Developer / IDE -->
+  <rect x="40" y="230" width="180" height="120" fill="#DCE6FF" stroke="#1A3E8A" stroke-width="2" rx="10"/>
+  <text x="60" y="270" font-size="18" fill="#1A3E8A">Developers</text>
+  <text x="70" y="300" font-size="14" fill="#1A3E8A">VSCode / Copilot</text>
+  <text x="85" y="325" font-size="14" fill="#1A3E8A">CLI / SDK</text>
+
+  <!-- Arrow to MCP -->
+  <line x1="220" y1="290" x2="300" y2="290" stroke="#000" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- MCP Server -->
+  <rect x="300" y="200" width="240" height="180" fill="#E9FFE8" stroke="#267A1B" stroke-width="2" rx="10"/>
+  <text x="330" y="240" font-size="20" fill="#267A1B">MCP Server</text>
+
+  <text x="320" y="270" font-size="14" fill="#267A1B">• Repo Scanning</text>
+  <text x="320" y="295" font-size="14" fill="#267A1B">• Schema / API Discovery</text>
+  <text x="320" y="320" font-size="14" fill="#267A1B">• Context Packaging</text>
+  <text x="320" y="345" font-size="14" fill="#267A1B">• Permissions & Entitlements</text>
+
+  <!-- Arrow to AI Gateway -->
+  <line x1="540" y1="290" x2="640" y2="290" stroke="#000" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- AI Gateway -->
+  <rect x="640" y="200" width="260" height="180" fill="#FFF2CC" stroke="#A67C00" stroke-width="2" rx="10"/>
+  <text x="665" y="240" font-size="20" fill="#A67C00">AI Gateway</text>
+
+  <text x="655" y="270" font-size="14" fill="#A67C00">• Model Routing</text>
+  <text x="655" y="295" font-size="14" fill="#A67C00">• Safety Filters</text>
+  <text x="655" y="320" font-size="14" fill="#A67C00">• Cost Control</text>
+  <text x="655" y="345" font-size="14" fill="#A67C00">• Audit Logging</text>
+
+  <!-- Arrows to models -->
+  <line x1="770" y1="200" x2="770" y2="120" stroke="#000" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="900" y1="290" x2="1000" y2="290" stroke="#000" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="770" y1="380" x2="770" y2="460" stroke="#000" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- LLM Providers -->
+  <rect x="720" y="50" width="220" height="60" fill="#FFE6E6" stroke="#B50000" stroke-width="2" rx="10"/>
+  <text x="760" y="85" font-size="16" fill="#B50000">GPT / Claude / OpenAI APIs</text>
+
+  <rect x="1000" y="250" width="120" height="80" fill="#E6FFFA" stroke="#008B74" stroke-width="2" rx="10"/>
+  <text x="1020" y="295" font-size="14" fill="#008B74">Domain Models</text>
+
+  <rect x="720" y="460" width="220" height="60" fill="#EBE6FF" stroke="#5A2EA6" stroke-width="2" rx="10"/>
+  <text x="750" y="495" font-size="16" fill="#5A2EA6">Internal / On-Prem LLMs</text>
+
+  <!-- RAG Layer -->
+  <rect x="380" y="420" width="300" height="130" fill="#E6F7FF" stroke="#006C8A" stroke-width="2" rx="10"/>
+  <text x="450" y="455" font-size="18" fill="#006C8A">RAG Layer</text>
+  <text x="400" y="485" font-size="14" fill="#006C8A">• Vector Store (FAISS / Pinecone / Elastic)</text>
+  <text x="400" y="510" font-size="14" fill="#006C8A">• Domain Documents & KB</text>
+  <text x="400" y="535" font-size="14" fill="#006C8A">• Retrieval Pipelines</text>
+
+  <!-- Governance -->
+  <rect x="40" y="50" width="250" height="100" fill="#FFF0F5" stroke="#A6004A" stroke-width="2" rx="10"/>
+  <text x="80" y="90" font-size="18" fill="#A6004A">Governance Layer</text>
+  <text x="55" y="120" font-size="14" fill="#A6004A">RAI • Privacy • Security • Policies</text>
+
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L6,3 z" fill="#000"/>
+    </marker>
+  </defs>
+
+</svg>
