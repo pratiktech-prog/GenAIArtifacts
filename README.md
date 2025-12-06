@@ -54,6 +54,8 @@ SageMaker-hosted LLM endpoints 
 📄 Document Included:
 Enterprise_GenAI_AWS_SSO_LLM_Integration.docx (Full deployment & integration guide)
 
+https://github.com/pratiktech-prog/GenAIArtifacts/commit/283036560db500cde66f97ca3f089e389ee57134
+
 🎓 Training & Enablement
 This repo includes materials for enterprise-wide GenAI upskilling:
 Training Program for Engineers, Analysts, QA & Support 
