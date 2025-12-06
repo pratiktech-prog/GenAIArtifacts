@@ -72,8 +72,7 @@ Responsible AI Governance Framework.docx
 https://github.com/pratiktech-prog/GenAIArtifacts/raw/refs/heads/main/RESPONSIBLE%20AI%20GOVERNANCE%20FRAMEWORK%20(RAI-GF%201.0).docx
 
 Hallucination Testing Framework.docx
-https://github.com/pratiktech-prog/GenAIArtifacts/raw/refs/heads/main/RESPONSIBLE%20AI%20GOVERNANCE%20FRAMEWORK%20(RAI-GF%201.0).docx
- 
+https://github.com/pratiktech-prog/GenAIArtifacts/raw/refs/heads/main/HALLUCINATION%20TESTING%20FRAMEWORK.docx
 
 🧩 Code Samples Overview
 Below are the main Python & React code sample themes included (via Copilot links):
