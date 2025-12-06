@@ -1,4 +1,3 @@
-This has been added for Gen AI Platform files for Productivity Improvementment for review
 GenAI Platform Portfolio – By Pratik Gupta Bhaya
 This repository showcases a complete, enterprise-grade Generative AI Platform, including architecture, governance, training programs, AWS integration, and hands-on code samples across all layers of a real GenAI system.
 It is designed to demonstrate leadership, engineering depth, governance alignment, and enablement experience for roles such as GenAI Platform Lead, AI Architect, Engineering Lead, and AI Governance Owner.
@@ -81,21 +80,24 @@ RAG for Decision Intelligence
 https://github.com/copilot/share/8a640322-42a0-8424-9800-484580b32933
 
 Secure RAG / Governance Layer
-https://github.com/copilot/share/486d11b0-0ba0-80a6-b141-cad4a0732860
+https://github.com/copilot/share/486d11b0-0ba0-80a6-b141-ca4da0732860
 
 Fraud Detection (Investment Banking)
-https://github.com/copilot/share/8a4c5220-4ba0-8806-a150-4a0407b6b921
+https://github.com/copilot/share/8a4c5220-4ba0-8806-a150-4a04a07b6921
+
+
 
 Orchestration & AI Gateway Layer
 https://github.com/copilot/share/ca241330-4384-8886-9811-5a45a4332973
 
 Retrieval & Knowledge Layer
-https://github.com/copilot/share/08455220-0b80-8024-9952-4a040d96f132
+https://github.com/copilot/share/08455220-0b80-8024-9952-4a04a0f96132
 
 Model Layer (GPT, Claude, OSS Models)
 https://github.com/copilot/share/406d0032-0aa0-8486-b100-4a0484b14821
 
 React Application Layer (Enterprise UI / Copilot Apps)
+
 https://github.com/copilot/share/0a2540a2-4ba0-8482-8853-5a0480b12021
 
 
