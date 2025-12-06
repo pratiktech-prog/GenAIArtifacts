@@ -69,10 +69,9 @@ https://github.com/pratiktech-prog/GenAIArtifacts/raw/refs/heads/main/Gen%20AI%2
 
 
 Responsible AI Governance Framework.docx
-https://github.com/pratiktech-prog/GenAIArtifacts/commit/82b2fb2ce4b708f4d58e4f8b1772d2013c3248b1
- 
-Hallucination Testing Framework.docx
+https://github.com/pratiktech-prog/GenAIArtifacts/raw/refs/heads/main/RESPONSIBLE%20AI%20GOVERNANCE%20FRAMEWORK%20(RAI-GF%201.0).docx
 
+Hallucination Testing Framework.docx
 https://github.com/pratiktech-prog/GenAIArtifacts/raw/refs/heads/main/RESPONSIBLE%20AI%20GOVERNANCE%20FRAMEWORK%20(RAI-GF%201.0).docx
  
 
