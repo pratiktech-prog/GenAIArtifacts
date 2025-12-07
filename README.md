@@ -97,6 +97,10 @@ https://github.com/copilot/share/08455220-0b80-8024-9952-4a04a0f96132
 Model Layer (GPT, Claude, OSS Models)
 https://github.com/copilot/share/406d0032-0aa0-8486-b100-4a0484b14821
 
+Python script for document analysis 
+
+https://github.com/copilot/share/0a244230-4aa4-8804-b112-da04a0b10163
+
 React Application Layer (Enterprise UI / Copilot Apps)
 
 https://github.com/copilot/share/0a2540a2-4ba0-8482-8853-5a0480b12021
