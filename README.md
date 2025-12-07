@@ -74,6 +74,9 @@ https://github.com/pratiktech-prog/GenAIArtifacts/raw/refs/heads/main/RESPONSIBL
 Hallucination Testing Framework.docx
 https://github.com/pratiktech-prog/GenAIArtifacts/raw/refs/heads/main/HALLUCINATION%20TESTING%20FRAMEWORK.docx
 
+GENAI PLATFORM & GUILD MASTER DOCUMENT.docx
+https://github.com/pratiktech-prog/GenAIArtifacts/raw/refs/heads/main/GENAI%20PLATFORM%20&%20GUILD%20MASTER%20DOCUMENT%20.docx
+
 🧩 Code Samples Overview
 Below are the main Python & React code sample themes included (via Copilot links):
 RAG for Decision Intelligence
@@ -84,8 +87,6 @@ https://github.com/copilot/share/486d11b0-0ba0-80a6-b141-ca4da0732860
 
 Fraud Detection (Investment Banking)
 https://github.com/copilot/share/8a4c5220-4ba0-8806-a150-4a04a07b6921
-
-
 
 Orchestration & AI Gateway Layer
 https://github.com/copilot/share/ca241330-4384-8886-9811-5a45a4332973
