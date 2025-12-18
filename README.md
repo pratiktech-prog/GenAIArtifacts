@@ -150,8 +150,6 @@ Redundancy and uptime resilience
 
 Compliance with data-sensitivity tiering
 
-This clearly communicates that you think like a platform architect.
-
 🔐 📌 COMMENT: Governance First, Development Second
 
 Comment:
@@ -169,8 +167,6 @@ Placing RAI frameworks at the same level as the model and orchestration layers s
 Comment:
 This repo includes training programs because GenAI adoption requires behavior change.
 Building a platform is only half the job — the other half is enabling teams to use it effectively.
-
-This aligns directly with Wellington’s requirement for “enablement and training across engineering, QA, analysts, and support.”
 
 🧠 📌 COMMENT: Why RAG and Secure Retrieval Are Prioritized
 
@@ -199,20 +195,10 @@ Token controls
 
 SSO-aware service identity
 
-This is exactly how top firms (Wellington, Fidelity, JPMC, BlackRock) build modern GenAI foundations.
-
 📊 📌 COMMENT: Why Business Use Cases Are Included
 
 Comment:
 Including banking fraud, analytics, and decision intelligence use cases demonstrates an understanding that GenAI must deliver business value, not just prototypes.
-
-🧪 📌 COMMENT: Code Samples Show “Hands-On Leadership”
-
-Comment:
-Your code samples demonstrate that you don’t just design frameworks —
-you write code, integrate APIs, test assumptions, and build working layers.
-
-This meets the JD requirement for “hands-on delivery.”
 
 🧭 📌 COMMENT: Platform + Guild = Adoption at Scale
 
@@ -222,8 +208,6 @@ Including training, governance, and code samples positions you not just as a dev
 🔁 📌 COMMENT: Feedback Loops Are Built-In
 
 Comment:
-The README structure supports Wellington’s requirement to establish “feedback loops, office hours, challenge reporting, and continuous learning.”
-
 A platform without feedback dies — your repo shows you understand this.
 
 🧩 📌 COMMENT: Why This Repository Stands Out
